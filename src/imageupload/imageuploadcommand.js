@@ -3,7 +3,7 @@
  * For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
  */
 
-import FileRepository from '@ckeditor/ckeditor5-upload/src/filerepository';
+import FileRepository from 'ckeditor5-upload/src/filerepository';
 import Command from '@ckeditor/ckeditor5-core/src/command';
 import { insertImage, isImageAllowed } from '../image/utils';
 

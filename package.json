@@ -1,20 +1,14 @@
 {
-  "name": "@ckeditor/ckeditor5-image",
+  "name": "ckeditor5-image",
   "version": "19.0.1",
-  "description": "Image feature for CKEditor 5.",
-  "keywords": [
-    "ckeditor",
-    "ckeditor5",
-    "ckeditor 5",
-    "ckeditor5-feature",
-    "ckeditor5-plugin"
-  ],
+  "description": "Image feature for CKEditor 5 - compress base64 img.",
+  "keywords": [],
   "dependencies": {
     "@ckeditor/ckeditor5-clipboard": "^19.0.1",
     "@ckeditor/ckeditor5-core": "^19.0.1",
     "@ckeditor/ckeditor5-engine": "^19.0.1",
     "@ckeditor/ckeditor5-ui": "^19.0.1",
-    "@ckeditor/ckeditor5-upload": "^19.0.1",
+    "ckeditor5-upload": "https://github.com/LessAlpha/ckeditor5-upload",
     "@ckeditor/ckeditor5-utils": "^19.0.1",
     "@ckeditor/ckeditor5-widget": "^19.1.0"
   },

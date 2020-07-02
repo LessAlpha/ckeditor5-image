@@ -8,7 +8,7 @@
  */
 
 import Plugin from '@ckeditor/ckeditor5-core/src/plugin';
-import FileRepository from '@ckeditor/ckeditor5-upload/src/filerepository';
+import FileRepository from 'ckeditor5-upload/src/filerepository';
 import Notification from '@ckeditor/ckeditor5-ui/src/notification/notification';
 import Clipboard from '@ckeditor/ckeditor5-clipboard/src/clipboard';
 import UpcastWriter from '@ckeditor/ckeditor5-engine/src/view/upcastwriter';
